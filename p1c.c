@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
+hello new commit in file
+
 int q[100];
 int q2[100];
 int f, l;
