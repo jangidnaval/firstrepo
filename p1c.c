@@ -5,6 +5,9 @@ int q[100];
 int q2[100];
 int f, l;
 
+//this is added later
+int new_vAR=100;
+
 int poll()
 {
 if(f==l) return -1;
